@@ -1,4 +1,4 @@
-package com.example.collection.concurrent;
+package main.java.collection.concurrent;
 
 import java.util.concurrent.CountDownLatch;
 

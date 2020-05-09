@@ -1,4 +1,4 @@
-package com.example.collection.concurrent;
+package main.java.collection.concurrent;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

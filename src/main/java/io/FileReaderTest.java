@@ -1,4 +1,4 @@
-package com.example.io;
+package main.java.io;
 
 public class FileReaderTest {
 }

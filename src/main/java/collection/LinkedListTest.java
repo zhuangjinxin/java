@@ -1,4 +1,4 @@
-package com.example.collection;
+package main.java.collection;
 
 public class LinkedListTest {
 

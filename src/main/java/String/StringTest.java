@@ -1,4 +1,4 @@
-package com.example.String;
+package main.java.String;
 
 public class StringTest {
 }
